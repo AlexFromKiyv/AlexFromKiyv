@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexFromKiyv
-- 👀 I’m interested in rapid made soft for business.
-- 🌱 I’m currently learning Git C# .Net
+- 👀 I’m interested in rapid development systems for business.
+- 🌱 I’m currently learning English Git C# .Net
 - 💞️ I’m looking to collaborate on .Net
 - 📫 How to reach me ... create issue.
 
